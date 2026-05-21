@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Xcode per-user state — never committed
+xcuserdata/
+
+# Build output
+DerivedData/
+.build/
+build/
+
+# Logs
+*.log
